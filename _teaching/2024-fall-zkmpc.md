@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Autumn 2024: Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 venue: "Tsinghua University, IIIS"
