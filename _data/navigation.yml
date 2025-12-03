@@ -20,9 +20,6 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Old Blogs"
-    url: /old-blogs/
-    # url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/
